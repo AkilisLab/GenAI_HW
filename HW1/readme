@@ -1,0 +1,5 @@
+
+## Requirements
+- pytorch
+- torchmetrics
+- pytorch-fid
